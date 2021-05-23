@@ -22,3 +22,7 @@ https://github.com/KevinMarquette/PSGraph
 https://github.com/loanDepot/SnowSQL
 https://github.com/loanDepot/TFVC
 https://github.com/loanDepot/VsoLoggingCommands
+
+# via James Petty
+https://github.com/PowerShellOrg/Plaster
+https://github.com/compwiz32/PSADHealth
